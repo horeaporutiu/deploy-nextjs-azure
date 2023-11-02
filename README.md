@@ -42,7 +42,7 @@ https://github.com/miroapp/app-examples/assets/10428517/cdda8f44-bf25-420e-ae84-
 If you want to understand how to deploy the app to AWS Amplify, please watch the video below. Otherwise,
 skip to the next section to see how to run this locally.
 
-[![Deploy the App to Azure](https://img.youtube.com/vi/-5Fq9chq0t4I/0.jpg)](https://youtu.be/-5Fq9chq0t4I)
+[![Deploy the App to Microsoft Azure](https://img.youtube.com/vi/5Fq9chq0t4I/0.jpg)](https://youtu.be/5Fq9chq0t4I)
 
 # 🏃🏽‍♂️ Run the app locally <a name="run"></a>
 
